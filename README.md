@@ -1,2 +1,2 @@
-# frontendcode-gulp
-Gulp  implementation to frontendcode
+# Angular
+Learning Angular JS topics
